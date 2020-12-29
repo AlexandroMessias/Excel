@@ -2,4 +2,4 @@
 Treinando e estudando Excel, tabela dinâmica, Dashboard, Gráficos, regras, formulas, segmentação de dados.
 
 
-###Teste
+## Pouco a pouco Aprendendo a lidar com excel, de forma produtiva, proximo passo PowerBI.
